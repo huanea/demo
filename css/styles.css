@@ -1,0 +1,11 @@
+body{
+  background-color: #2ec997;
+}
+#main{
+  margin-top: 100px;
+  color: #fff;
+  font-family: monospace;
+}
+#mig{
+  font-size: 50px;
+}
